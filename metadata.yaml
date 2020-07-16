@@ -1,5 +1,8 @@
 _repo: A-System-of-Practical-Medicine-By-American-Authors-Vol-IV-Diseases-of-the-Genito-Urinary-and-__62587
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '52017'
     url: http://www.gutenberg.org/2009/agents/52017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62587#A-System-of-Practical-Medicine-By-American-Authors-Vol-IV-Diseases-of-the-Genito-Urinary-and-_
 gutenberg_issued: '2020-07-08'
 gutenberg_type: Text
 identifiers:
